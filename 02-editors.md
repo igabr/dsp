@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>Nano - i've used the nano editor before using Ubuntu on a virtual machine!
 
 --
 
@@ -89,6 +89,4 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
+> Sublime Text - I've been using sublime text for around 9 months. Sublime text has fantastic package support. Ctrl+D allows you to do multi-line editing! I customize my editor by installing a package that checks my code syntax in real time. This helps me debug the code as I write!
