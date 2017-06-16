@@ -15,7 +15,7 @@ Review the [installation instructions](resources/jupyter_notebook_1_install.md) 
 >### Part 2:  Using the Notebook 
 Review the [notes on using Jupyter Notebook](resources/jupyter_notebook_2_use.md) and create a test notebook.  Do some practice and get accustomed to navigating around the notebook.
 
-## Answer: all notes read and exercises complete. I have extensive experience with Jupyter.
+>Answer: all notes read and exercises complete. I have extensive experience with Jupyter.
 
  
  
