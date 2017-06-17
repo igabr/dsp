@@ -41,7 +41,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 ### Q2.  List Files in Unix   
 
-What do the following commands do:  
+What do the following commands do: 
+ 
 `ls` - lists files and directories in the current directory.
 
 `ls -a`  - same as above but shows hidden files.
@@ -55,6 +56,7 @@ What do the following commands do:
 `ls -t` - lists file in order of last modified.
 
 `ls -Glp`  - list files using color in long-form and puts a / after those filenames that are directories.
+
 ---
 
 ### Q3.  More List Files in Unix  
@@ -79,6 +81,3 @@ An example :
  ```bash
 seq 5 | xargs -n 1 echo "The count is: "
 ```
-
- 
-
