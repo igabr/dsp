@@ -42,14 +42,19 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls` - lists files and directories in the current directory.\n
-`ls -a`  - same as above but shows hidden files.\n
-`ls -l`  - long format of list. gives total cumulative file size and read/write permissions.\n
-`ls -lh`  - gives size of files/directories.\n
-`ls -lah` - same as above but includes hidden files.\n
-`ls -t` - lists file in order of last modified.\n
-`ls -Glp`  - list files using color in long-form and puts a / after those filenames that are directories.\n
+`ls` - lists files and directories in the current directory.
 
+`ls -a`  - same as above but shows hidden files.
+
+`ls -l`  - long format of list. gives total cumulative file size and read/write permissions.
+
+`ls -lh`  - gives size of files/directories.
+
+`ls -lah` - same as above but includes hidden files.
+
+`ls -t` - lists file in order of last modified.
+
+`ls -Glp`  - list files using color in long-form and puts a / after those filenames that are directories.
 ---
 
 ### Q3.  More List Files in Unix  
@@ -70,7 +75,6 @@ What does `xargs` do? Give an example of how to use it.
 
 * xargs executes a command on a bunch of items in order. Suppose someone is fired from a company, you then wish to find all of their files, and then delete them. The xargs command lets you run the find command and then execute the deletes of these found files. This is easier that writing a bash script or doing a loop!
 
-> 
 An example :
  ```bash
 seq 5 | xargs -n 1 echo "The count is: "
