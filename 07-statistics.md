@@ -79,9 +79,9 @@ This problem presents a robust example of actual vs biased data.  As a data scie
 This questions asks you to examine the function that produces random numbers.  Is it really random?  A good way to test that is to examine the pmf and cdf of the list of random numbers and visualize the distribution.  If you're not sure what pmf is, read more about it in Chapter 3.  
 >> **Click above link for answer**
 
-### Q4. [Think Stats Chapter 5 Exercise 1](statistics/5-1-blue_men.md) (normal distribution of blue men)
+### Q4. [Think Stats Chapter 5 Exercise 1](statistics/Think_Stats_Answer_Ch5_Ex1_Ibrahim_Gabr.ipynb) (normal distribution of blue men)
 This is a classic example of hypothesis testing using the normal distribution.  The effect size used here is the Z-statistic. 
-
+>> **Click above link for answer**
 
 
 ### Q5. Bayesian (Elvis Presley twin) 
